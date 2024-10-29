@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=swap');
 body{
-    background-color: blueviolet;
+    background-color: rgb(176, 122, 228);
     color: aquamarine;
+    font-family: "DynaPuff", system-ui;
 }
 p{
     color: aqua;
@@ -8,10 +10,13 @@ p{
 }
 h1{
     text-align: center;
+    font-weight: 100;
+    font-size: 40px;
 }
 nav{
     text-align: center;
 }
 a{
     color: aquamarine;
+    text-decoration: none;
 }
